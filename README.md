@@ -4,6 +4,13 @@ Tech demo for rehabilitation education, instruction, and assessment via real-tim
 
 
 
+https://github.com/trevor-chan/posed-rehab/assets/55520943/5a58d4d1-338b-4e4c-bdfb-2225428811a4
+
+
+https://github.com/trevor-chan/posed-rehab/assets/55520943/d0afd202-87ab-4cc1-aa2a-c730ba3e4bcd
+
+
+
 ## Table of Contents
 
 * [Requirements](#requirements)
