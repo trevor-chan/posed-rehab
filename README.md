@@ -12,6 +12,11 @@ Tech demo for rehabilitation education, instruction, and assessment via real-tim
   </video>
 </p>
 
+<video width="320" height="240" controls>
+  <source src="videos/leg_demo_1.mov" type="video/mp4">
+</video>
+
+
 ## Table of Contents
 
 * [Requirements](#requirements)
